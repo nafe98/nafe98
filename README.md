@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on Machine Learning Research Projects
 - 📫 How to reach me nafemuhtasim98@gmail.com
 
-- [OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
-- 
 
 <!---
 nafe98/nafe98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
