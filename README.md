@@ -5,11 +5,6 @@ During his undergraduate studies, he was part of the pioneering MARS Rover Team 
 He has initiated multiple startups and entrepreneurial ventures. His latest endeavor is a health tech platform, where he serves as the Chief Operating Officer. His platform's reach extends from the hill tracts of Bangladesh to immigrants living abroad, significantly impacting healthcare accessibility 24/7.
 
 In parallel, he actively works as a graduate research assistant at AUST in artificial intelligence and machine learning, collaborating with universities in Bangladesh and the USA. Currently, he is addressing critical challenges in the biomedical field, such as signal processing and pattern recognition for cognitive behaviors, image processing of CT scans and medical images for cancer detection, and the efficient localization of wireless endoscopy within the human body. His research interests include implementing machine learning, ensemble learning, meta-learning, generative AI, and data science to address complex problems.
-
-
-How to reach me nafemuhtasim98@gmail.com
-
-
 <!---
 nafe98/nafe98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
