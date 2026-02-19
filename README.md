@@ -1,10 +1,14 @@
 # About Me:
 Nafe Muhtasim Hye has consistently balanced rigorous research commitments, entrepreneurial endeavors, and academic achievements for over four years. He has made a substantial impact in each of these three areas.
+<br>
 During his research tenure, he collaborated with multiple universities in the United States and Bangladesh. Most of his research projects were fully funded. His research focuses on artificial intelligence, machine learning, and data science for prescriptive and predictive analytics. His research application areas include health, biomedical, forecasting and business. Nafe has worked with both qualitative and quantitative research methodologies. 
+<br>
 In parallel with his research activities, Nafe has actively pursued entrepreneurial initiatives. He is the Chief Operating Officer of Consel Health, a health-tech startup that has significantly improved access to healthcare in Bangladesh. Consel Health is an online platform that offers telemedicine and psychological counseling services through mobile and web apps. The startup has onboarded over 100 doctors and more than 35 psychologists and regularly organizes mental health training programs and workshops. Its services reach individuals nationwide, from remote hill tracts to Bangladeshi immigrants abroad, ensuring 24/7 healthcare access.
+<br>
 Nafe received the highest distinction and multiple merit scholarships for his academic excellence in his MBA in Operations and Supply Chain Management. His undergraduate degree is in Electrical and Electronic Engineering. During his undergraduate studies, he was a core member of one of the pioneering MARS Rover Teams in Bangladesh. The team earned international recognition, including securing 27th place worldwide at the European Rover Challenge 2018.
+<br>
 Furthermore, Nafe has appeared on television, received media attention, and won awards in intra-university competitions and sports. His guiding principle is “To Build, To Solve, To Explore,” which reflects his passion for innovation, impact, and interdisciplinary collaboration.
-.<br>
+<br>
 
 
 ## 🌐 Socials:
